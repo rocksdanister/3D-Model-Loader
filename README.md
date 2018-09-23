@@ -10,6 +10,7 @@ Press Arrow Keys to rotate in different axis: Arrow Up and Down for Z axis, Left
 ## Requirements
 - C++ Compiler >= GCC 4.8.1
 - Freeglut-dev >= Freeglut 3.0.0
+
 Once the required libraries are installed, just enter `make` to compile.
 
 ## Not Loading Correctly?
